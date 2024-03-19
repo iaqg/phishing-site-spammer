@@ -5,3 +5,5 @@ Tired of phishing websites targeting unsuspecting users? Take a stand against on
 # How to Use
 
 Simply open up the phishing-spammer.py file and start flooding dummy credentials.
+
+pip install requests
